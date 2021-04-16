@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>netstandard2.0</TargetFrameworks>
+    <TargetFrameworks>netcoreapp3.1</TargetFrameworks>
     <RootNamespace>Amazon.QLDB.Driver</RootNamespace>
     <Company>Amazon.com, Inc.</Company>
     <Authors>Amazon Web Services</Authors>
